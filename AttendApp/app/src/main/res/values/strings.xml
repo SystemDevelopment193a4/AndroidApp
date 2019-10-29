@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AttendApp</string>
+    <string-array name="attendlist">
+        <item>2019/10/7 CMSサイト構築 (月) 1限 ○</item>
+        <item>2019/10/14 CMSサイト構築 (月) 1限 ×</item>
+        <item>2019/10/21 CMSサイト構築 (月) 1限 △</item>
+        <item>2019/10/28 CMSサイト構築 (月) 1限 </item>
+        <item>2019/11/4 CMSサイト構築 (月) 1限 休</item>
+        <item>2019/11/11 CMSサイト構築 (月) 1限 ○</item>
+    </string-array>
+
+    <string-array name="classlist">
+        <item>2019年度 CMSサイト構築</item>
+        <item>2019年度 ゼミナール</item>
+        <item>2019年度 システム開発</item>
+        <item>2019年度 情報セキュリティ</item>
+        <item>2019年度 キャリアデザイン</item>
+        <item>2019年度 モバイルアプリケーション</item>
+    </string-array>
+
+    <string-array name="gradelist">
+        <item>1年</item>
+        <item>2年</item>
+        <item>3年</item>
+        <item>4年</item>
+    </string-array>
+
+    <string name="dialog_title_camera_permission">No camera permission</string>
+    <string name="dialog_message_camera_permission">This application needs camera permission to recognize QR code from camera.</string>
+</resources>
